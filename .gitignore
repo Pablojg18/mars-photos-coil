@@ -34,3 +34,7 @@ proguard-project.txt
 # Android Studio/IDEA
 *.iml
 .idea
+
+# Node
+node_modules/
+package-lock.json
